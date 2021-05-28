@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	overflow: hidden;
+    background-color: #33bbff;
+}
+
+li {
+    float : center;
+}
+
+li a {
+    display : block;
+    background-color:  #33bbff;
+	color : black;
+	text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:  #4dd2ff;
+	font-size : 100%;
+}
+
+#navbar h1 a {
+
+    color: #33bbff ;
+    align-items: center;
+    list-style: none;
+    margin: 40rem;
+    background-color: crimson;
+}
+
+   
